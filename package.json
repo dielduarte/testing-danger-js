@@ -1,0 +1,23 @@
+{
+  "name": "testing-danger-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dielduarte/testing-danger-js.git"
+  },
+  "keywords": [],
+  "author": "Diel Duarte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dielduarte/testing-danger-js/issues"
+  },
+  "homepage": "https://github.com/dielduarte/testing-danger-js#readme",
+  "devDependencies": {
+    "danger": "^10.7.1"
+  }
+}
